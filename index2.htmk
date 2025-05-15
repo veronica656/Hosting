@@ -1,0 +1,94 @@
+<html>
+          <head>
+                 <title> 
+                              Pagina 2
+                 </title>
+          </head>
+<body bgcolor="c59ef9">
+<font color="white" size="5" face="Bahnschrift SemiBold">
+<center>
+<marquee bgcolor="purple" width="60%" size="40">
+            <h3>
+                   Artistas favoritos
+            </h3>
+       </marquee>
+<br><br><br>
+<table border="3" bordercolor="white" width="70%">
+          <tr>
+                   <th>
+                             NOMBRE
+                   </th>
+                   <th>
+                             FOTO
+                   </th>
+                   <th>
+                             CANCION PREFERIDA
+                   </th>
+                   <th>
+                             VIDEO
+                  </th>
+          </tr>
+        <tr>
+                   <th>
+                             Taylor Swift
+                   </th>
+                   <th>
+                             <img src="Taylor.jpg">
+                   </th>
+                   <th>
+                             <audio controls>
+                                         <source src="red.mp3">
+                             </audio>
+                   </th>
+                   <th>
+                             <video src="redd.mp4" controls height="370" width="550">
+                  </th>
+          </tr> 
+                   <th>
+                             Charlie Puth
+                   </th>
+                   <th>
+                             <img src="char.jpg">
+                   </th>
+                   <th>
+                             <audio controls>
+                                         <source src="how.mp3">
+                             </audio>
+
+                   </th>
+                   <th>
+                             <video src="charlie (1).mp4" controls height="370" width="550">
+
+                  </th>
+          </tr>
+        <tr>
+                   <th>
+                             Ed Sheeran
+                   </th>
+                   <th>
+                             <img src="Ed.jpg">
+                   </th>
+                   <th>
+                             <audio controls>
+                                         <source src="shape.mp3">
+                             </audio>
+                   </th>
+                   <th>
+                             <video src="shappe.mp4" controls height="370" width="550">
+                  </th>
+          </tr>
+
+
+</table>
+</center>
+<br><br>
+<a href="pagina 1.html">
+<img src="fresa.png" height="40%"
+
+
+
+
+
+
+</body>
+</html>
